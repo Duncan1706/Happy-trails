@@ -1,8 +1,8 @@
-# {Happy Trails Travel Agency}
-#### {Offers information about travel agency}, {24/07/2018}
+# {Happy Trails}
+#### {Travel agency website}, {24/07/2018}
 #### By **{Duncan Mutahi}**
 ## Description
-{Organizers of travel and holiday packages across the country at special rates.}
+{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
@@ -15,7 +15,7 @@
 ## Technologies Used
 {Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
 ## Support and contact details
-{Link to live site is https://duncan1706.github.io/Happy-trails}
+{link to live site https://duncan1706.github.io/Happy-trails/}
 ### License
 *{MIT License
 
