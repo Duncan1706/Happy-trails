@@ -6,6 +6,13 @@ h1 {
   height: 500px;
 }
 .tropical {
-  text-align: center;
+  font-family: fantasy;
   color: darkred;
+  font-size: 25px;
+}
+.head {
+  color: #f7325e;
+}
+p.tropical {
+  color: #7dc410;
 }
